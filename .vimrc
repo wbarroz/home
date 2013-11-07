@@ -11,14 +11,16 @@ Bundle 'gmarik/vundle'
  " My Bundles here:
  "
  " original repos on github
-Bundle 'Valloric/YouCompleteMe'
+"Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/syntastic'
 Bundle 'scrooloose/nerdtree'
 Bundle 'vimoutliner/vimoutliner'
 Bundle 'altercation/vim-colors-solarized'
+Bundle 'sophacles/vim-processing'
+Bundle 'talek/vorax4-beta'
 Bundle 'taglist.vim'
 Bundle 'dbext.vim'
-Bundle 'vcscommand.vim'
+"Bundle 'vcscommand.vim'
 " Bundle 'taglist.doc'
 " Bundle 'tpope/vim-fugitive'
 " Bundle 'Lokaltog/vim-easymotion'
